@@ -1,1 +1,1 @@
-# Notes.UI
+# notes-app
